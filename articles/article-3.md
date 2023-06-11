@@ -45,7 +45,7 @@ Dan zijn ze op het moment ook veel bezig met het uitbereiden/verbeteren van de k
 **`text-wrap: balance;`**
 
 ![text-wrap: balance image from https://developer.chrome.com/blog/css-text-wrap-balance/](https://wd.imgix.net/image/vS06HQ1YTsbMKSFTIPl2iogUQP73/lnGFtchLIPk9RnHSurHg.png?auto=format&w=1600)
-_image from https://developer.chrome.com/blog/css-text-wrap-balance/_
+_Image from https://developer.chrome.com/blog/css-text-wrap-balance/_
 
 Verder ging het ook nog in het kort over style queries, waarmee je iets kunt stijlen op basis van de value van een custom property. Ook vertelde Una over state queries, waarmee je iets kunt stijlen op een propertie als bijvoorbeeld sticky.
 
@@ -98,6 +98,10 @@ Verder vertelde hij nog meer over bijvoorbeeld DevTools, CSS performance tooling
 Op de vrijdag gaf Jhey Tompkins een presentatie met daarin vanalles wat hij heeft gemaakt met CSS. Zo heeft hij verschillende spelletjes gemaakt in CSS, zoals boter kaas en eieren en vier op een rij. Ook had hij een pagina gemaakt waar allemaal beertjes aan ballonnen hingen en daartussen moest je dan de gouden beer vinden en aanklikken. Het was echt mega leuk om te zien wat hij allemaal heeft gemaakt en het was ook inspirerend om te zien wat er allemaal mogelijk is met CSS.
 
 Hier twee werken van Jhey Tompkins:
+
+![Werk van Jhey Tompkins](https://github.com/Inevdhoven/weekly-nerd/assets/43877754/40289d56-c832-4920-8be2-9403dee0ca2e)
+
+![Werk van Jhey Tompkins](https://github.com/Inevdhoven/weekly-nerd/assets/43877754/9c777a72-2134-47c8-8a2e-25d8ef7b1b02)
 
 ## Mijn ervaring op CSS Day
 
